@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c23aaa1c-b0bb-4ed1-a6d4-1d0701534082" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/armstrong_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/bigger_three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/bigger_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/billamount_age_customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/costprice_sellingprice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/count_digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/cude_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/factorial_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/fibanoci_upto_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/natural_number_series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/negative_positive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/odd_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/person_weight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/prime_between_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/prime_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/reverse_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/right_aligned_star.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/right_aligned_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/simple_interest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/simple_pattren.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/square_pattren.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/sum_avg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/sum_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/sum_even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/swap_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basic/uppercase_lowercase_ascii.py" afterDir="false" />
-    </list>
+    <list default="true" id="c23aaa1c-b0bb-4ed1-a6d4-1d0701534082" name="Changes" comment="commit and push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1749276089975</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit and push">
+      <option name="closed" value="true" />
+      <created>1749278826642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749278826642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit and push" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit and push" />
   </component>
 </project>
