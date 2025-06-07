@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c23aaa1c-b0bb-4ed1-a6d4-1d0701534082" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/armstrong_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/bigger_three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/bigger_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/billamount_age_customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/costprice_sellingprice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/count_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/cude_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/factorial_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/fibanoci_upto_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/natural_number_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/negative_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/odd_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/person_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/prime_between_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/prime_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/reverse_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/right_aligned_star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/right_aligned_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/simple_interest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/simple_pattren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/square_pattren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/sum_avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/sum_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/sum_even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/swap_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/uppercase_lowercase_ascii.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yASs7j4yeHzvPZRdYEeMlozJOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.simple_pattren.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c23aaa1c-b0bb-4ed1-a6d4-1d0701534082" name="Changes" comment="" />
+      <created>1749276089975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749276089975</updated>
+    </task>
+    <servers />
+  </component>
+</project>
